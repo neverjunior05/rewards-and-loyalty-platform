@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /ledger
+Disallow: /vouchers
+Disallow: /admin
+Sitemap: /sitemap.xml
